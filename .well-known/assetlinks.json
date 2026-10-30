@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ferreiracadu97_source.twa",
+      "sha256_cert_fingerprints": [
+        "92:18:3D:7C:5D:65:FE:DC:7E:A0:17:3E:21:6D:60:76:F5:6F:3D:3A:A0:64:C9:A8:2B:59:00:AF:2F:70:9B:98"
+      ]
+    }
+  }
+]
